@@ -1,5 +1,6 @@
 # WGTIK_2021
 Base code for personal website exercise for WGTIK 2021
+Basic Skill  = Microsoft Word, Canva and Copywriting.
 
-example result:
-[https://adf-telkomuniv.github.io/WGTIK_2021/](https://adf-telkomuniv.github.io/WGTIK_2021/)
+result:
+https://akhdiiyat.github.io/WGTIK_2021/
